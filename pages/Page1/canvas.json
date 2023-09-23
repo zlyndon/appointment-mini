@@ -1,0 +1,90 @@
+{
+  "unpublishedPage": {
+    "name": "Page1",
+    "slug": "page1",
+    "layouts": [
+      {
+        "viewMode": false,
+        "dsl": {
+          "widgetName": "MainContainer",
+          "backgroundColor": "none",
+          "rightColumn": 4896,
+          "snapColumns": 64,
+          "detachFromLayout": true,
+          "widgetId": "0",
+          "topRow": 0,
+          "bottomRow": 1292,
+          "containerStyle": "none",
+          "snapRows": 125,
+          "parentRowSpace": 1,
+          "type": "CANVAS_WIDGET",
+          "canExtend": true,
+          "version": 71,
+          "minHeight": 1292,
+          "dynamicTriggerPathList": [],
+          "parentColumnSpace": 1,
+          "dynamicBindingPathList": [],
+          "leftColumn": 0,
+          "children": [
+            {
+              "widgetName": "swiper1",
+              "isCanvas": false,
+              "displayName": "轮播",
+              "iconSVG": "/static/media/icon.4f4fc85755aec79b99f64362b22f7493.svg",
+              "searchTags": [
+                "swipper",
+                "image",
+                "picture"
+              ],
+              "topRow": 1,
+              "bottomRow": 25,
+              "parentRowSpace": 10,
+              "type": "TARO_SWIPER_WIDGET",
+              "hideCard": false,
+              "parentColumnSpace": 6.84375,
+              "leftColumn": 0,
+              "dynamicBindingPathList": [],
+              "isMobile": true,
+              "key": "fbldcd6rih",
+              "isDeprecated": false,
+              "rightColumn": 64,
+              "widgetId": "f39jfotkwy",
+              "isVisible": true,
+              "list": [
+                {
+                  "url": "https://img01.yzcdn.cn/vant/apple-1.jpg"
+                },
+                {
+                  "url": "https://img01.yzcdn.cn/vant/apple-2.jpg"
+                },
+                {
+                  "url": "https://img01.yzcdn.cn/vant/apple-3.jpg"
+                },
+                {
+                  "url": "https://img01.yzcdn.cn/vant/apple-4.jpg"
+                }
+              ],
+              "parentId": "0",
+              "urlKey": "url",
+              "renderMode": "CANVAS",
+              "isLoading": false
+            }
+          ]
+        },
+        "layoutOnLoadActions": [],
+        "layoutOnLoadActionErrors": [],
+        "validOnPageLoadActions": true,
+        "id": "Page1",
+        "deleted": false,
+        "policies": [],
+        "userPermissions": []
+      }
+    ],
+    "userPermissions": [],
+    "policies": [],
+    "isHidden": false,
+    "icon": "smile-o"
+  },
+  "deleted": false,
+  "gitSyncId": "650e78446fbfd93d5cd61238_650e78446fbfd93d5cd6123a"
+}
